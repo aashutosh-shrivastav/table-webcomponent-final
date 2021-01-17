@@ -13,5 +13,5 @@
 4. web-componenet is dist folder of create-table-web-component with .tgz file used to publish package to npm 
 
 Problem:
- i. Unable to use  webcomponent in react .Works ell in angular and plain index.html file.
+ i. Unable to use  webcomponent in react .Works well in angular and plain index.html file.
 
